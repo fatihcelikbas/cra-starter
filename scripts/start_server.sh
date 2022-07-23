@@ -3,7 +3,7 @@
 # navigate to app folder
 cd app
 
-# initial startup by running react-script "start", name process "marketing"
+# initial startup by running react-script "start", name process "cra_starter"
 # --watch watches and restarts if files change
 pm2 start ./node_modules/react-scripts/scripts/start.js --name "cra_starter" --watch
 
